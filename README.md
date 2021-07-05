@@ -1,5 +1,8 @@
 # strapi-front
 
+## Installation
+First, clone and install the back office https://github.com/eliemakany/poc-strapi-back
+
 ## Project setup
 ```
 yarn install
@@ -10,15 +13,5 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Launch the project
+Go to http://localhost:8080
